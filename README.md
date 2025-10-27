@@ -150,12 +150,14 @@ easyocr
 | ----------------------------------------------------------------- | ------------------------- |
 | <img width="400" height="400" alt="Screenshot 2025-10-27 122427" src="https://github.com/user-attachments/assets/60da8a99-9a93-4954-958e-5823e6a14832" />|<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f14f3611-d73c-4273-8f35-6ace9a5c1f83" /> |
 
-###Text Output
+Text Output
 
-+91 9448709272/275/278
-principal@mysururoyal org
++91 9448709272/275/278  
+
+principal@mysururoyal org  
+
 Palahalli; Mandya District, Karnataka 571606
-uatitute
+Iuatitute
 Mysuru
 Royal
 Home
