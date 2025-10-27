@@ -153,33 +153,31 @@ easyocr
 Text Output
 
 +91 9448709272/275/278  
-
 principal@mysururoyal org  
-
-Palahalli; Mandya District, Karnataka 571606
-Iuatitute
-Mysuru
-Royal
-Home
-About
-Departments
-Training & Placements
-Activities
-Administration
-Contact
-Quick Links
-Institute of
-Technology
-MBA ADMISSIONS OPEN. PGCET CODE
-B032
-Welcome To
-Mysore Royal Educational Truste
-Mysuru Royal Institute
-of
-Technology
-Approved by AICTE, New Delhi; Affiliated to VTU, Belagavi & Recognised by GoK )
-ABOUT US
-https mysururoyalorg
+Palahalli; Mandya District, Karnataka 571606  
+Institute  
+Mysuru  
+Royal  
+Home  
+About  
+Departments  
+Training & Placements  
+Activities  
+Administration  
+Contact  
+Quick Links  
+Institute of  
+Technology  
+MBA ADMISSIONS OPEN. PGCET CODE  
+B032  
+Welcome To 
+Mysore Royal Educational Truste  
+Mysuru Royal Institute  
+of  
+Technology  
+Approved by AICTE, New Delhi, Affiliated to VTU, Belagavi & Recognised by GoK )  
+ABOUT US  
+https mysururoyalorg  
 
 ---
 
