@@ -148,7 +148,7 @@ easyocr
 
 | Input Image                                                       | OCR Output                |
 | ----------------------------------------------------------------- | ------------------------- |
-| <img width="400" height="400" alt="Screenshot 2025-10-27 122427" src="https://github.com/user-attachments/assets/60da8a99-9a93-4954-958e-5823e6a14832" />|<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f14f3611-d73c-4273-8f35-6ace9a5c1f83" />“Recognized Text Example” |
+| <img width="400" height="400" alt="Screenshot 2025-10-27 122427" src="https://github.com/user-attachments/assets/60da8a99-9a93-4954-958e-5823e6a14832" />|<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f14f3611-d73c-4273-8f35-6ace9a5c1f83" /> |
 
 ---
 
