@@ -60,8 +60,8 @@ Optical_Character_Recognition/
 ### Step 1️⃣: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Optical_Character_Recognition.git
-cd Optical_Character_Recognition
+git clone https://github.com/preetham-nd/OCR_Optical_Character_Recognition_using-easyOCR.git
+cd Optical_Character_Recognition_using-easyOCR
 ```
 
 ### Step 2️⃣: Install Dependencies
@@ -113,7 +113,7 @@ easyocr
 2. **Set the image path**:
 
    ```python
-   image_path = '/content/sample_data/image.jpg'
+   image_path = '[Your Image path]'
    ```
 
 3. **Run the OCR model**:
