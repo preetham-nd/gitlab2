@@ -200,10 +200,9 @@ https mysururoyalorg
 
 ## 👩‍💻 Author
 
-**Preetham N D**
+**Preetham N D,Ravi Kumar N Rao,Nisarga A,Pratheeksha S R**
 Mini Project — *Optical Character Recognition using EasyOCR*
 Department of Computer Science
 
 ---
 
-Would you like me to now generate a **ready-to-download `requirements.txt` file** and the **final README.md** (as files you can attach or upload to GitHub)?
