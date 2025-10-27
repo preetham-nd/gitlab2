@@ -198,11 +198,11 @@ https mysururoyalorg
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-**Preetham N D,Ravi Kumar N Rao,Nisarga A,Pratheeksha S R**
+**Preetham N D,Ravi Kumar N Rao,Nisarga A,Pratheeksha S R**  
 Mini Project — *Optical Character Recognition using EasyOCR*
-Department of Computer Science
+Department of Computer Science, MRIT
 
 ---
 
